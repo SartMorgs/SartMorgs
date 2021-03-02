@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Morgana</h1>
 <h3 align="center">Data Engineer Jr 📊 || Software Developer 👨‍💻 || Python 🐍 and all DevOps tools 🐳 </h3>
 
+![](https://komarev.com/ghpvc/?username=your-SartMorgs)
+
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/morgana-sartor/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
