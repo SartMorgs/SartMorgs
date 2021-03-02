@@ -16,7 +16,7 @@ Hi,I'm Morgana Sartor, but you can call me Morgs. Currently working at WEG S.A. 
 
 **About me:**
 
-- 📚 I'm continuous learning about data world
+- 📚 I keep learning about data world
 - 🎓 Always present on academy, searching and contributing with extension and cientific projects as I can
 - ❤️ I have a passion for games, animes and k-dramas
 - ☕ Love coffee so much
