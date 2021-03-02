@@ -13,8 +13,6 @@
 
 Hi,I'm Morgana Sartor, but you can call me Morgs. Actually working at WEG S.A. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
 
 **About me:**
 
