@@ -22,7 +22,7 @@ Hi,I'm Morgana Sartor, but you can call me Morgs. Currently working at WEG S.A. 
 - 🎓 Always present on academy, searching and contributing with extension and cientific projects as I can
 - ❤️ I have a passion for games, animes and k-dramas
 - ☕ Love coffee so much
-- 🏊 **I'm currently improve my skill on**
+- 🏊 **I'm currently improving my skills on**
 ![Python](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![Airflow](https://img.shields.io/badge/Airflow-%7C-redgreen)    ![Docker](https://img.shields.io/badge/Docker-%7C-blue)   ![Golang](https://img.shields.io/badge/Golang-%7C-blue)   ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 
