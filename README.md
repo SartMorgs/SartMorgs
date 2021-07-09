@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morgana</h1>
-<h3 align="center">Jr Data Engineer 📊 || Software Developer 👨‍💻 || Python 🐍 and all DevOps tools 🐳 </h3>
+<h3 align="center">Data Engineer 📊 || Software Developer 👨‍💻 || Python 🐍 and all DevOps tools 🐳 </h3>
 
 ![](https://komarev.com/ghpvc/?username=your-SartMorgs)
 
