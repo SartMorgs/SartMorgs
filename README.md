@@ -13,7 +13,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/af/00/82/af00823f968953a128d8e6e4463bb7cc.gif" />
 
-Hi,I'm Morgana Sartor, but you can call me Morgs. Currently working for Akross <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
+Hi,I'm Morgana Sartor, but you can call me Morgs. Currently working for @clara-team <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
 
 **About me:**
