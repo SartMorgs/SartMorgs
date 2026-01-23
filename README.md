@@ -13,13 +13,12 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/af/00/82/af00823f968953a128d8e6e4463bb7cc.gif" />
 
-Hi,I'm Morgana Sartor, but you can call me Morgs. Currently working for Qubika <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
+Hi,I'm Morgana Sartor, but you can call me Morgs. Currently working for Pasito <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   
 
 
 **About me:**
 
 - 📚 I keep learning about data world
-- 🎓 Always present on academy, searching and contributing with extension and cientific projects as I can
 - ❤️ I have a passion for games, animes and k-dramas
 - ☕ Love coffee so much
 - 🏊 **I'm currently improving my skills on**
